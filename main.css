@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+}
+.div1{
+     margin:  0 auto;
+    width: 2px;
+    height: 100px;
+    background-color: blue;
+}
